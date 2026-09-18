@@ -1,0 +1,8 @@
+{
+  "name": "ai-budget-balancer",
+  "label": "AI Budget Balancer",
+  "description": "Balance ChatGPT and Claude subscription usage by session",
+  "icon": "SymbolMethod",
+  "version": "0.1.0",
+  "api": "plugin_api.py"
+}

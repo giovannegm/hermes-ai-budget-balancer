@@ -1,0 +1,6 @@
+name: ai-budget-balancer
+version: "0.1.0"
+description: Balance ChatGPT and Claude subscription usage by session.
+author: giovannegm
+license: MIT
+tags: [routing, quota, codex, claude]

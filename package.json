@@ -1,0 +1,10 @@
+{
+  "name": "hermes-ai-budget-balancer",
+  "version": "0.1.0",
+  "description": "Hermes plugin that routes GPT and Claude sessions based on subscription quota and task fit.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --experimental-vm-modules --test tests/test_plugin.mjs"
+  }
+}
