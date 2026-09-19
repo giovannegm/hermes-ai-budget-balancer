@@ -4,6 +4,8 @@ A local Hermes Agent plugin that chooses between GPT/Codex and Claude for each n
 
 This is an early personal project by [giovannegm](https://github.com/giovannegm). It targets [Hermes Agent](https://github.com/NousResearch/hermes-agent) and is not an official Nous Research plugin.
 
+**About the author.** Created, maintained and published by [giovannegm](https://github.com/giovannegm), a self-taught developer. I am the sole maintainer of this project and I am responsible for its code and content.
+
 ## How it works
 
 The plugin has four parts:
